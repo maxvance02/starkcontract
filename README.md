@@ -1,3 +1,4 @@
 # starkcontract
 STARK
 README FILE FOR THE CONTRACT IN CAIRO LANGUAGE.
+thats it
